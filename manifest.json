@@ -1,0 +1,10 @@
+{
+  "name": "Shack_Better_Paths",
+  "version_number": "1.1.0",
+  "website_url": "",
+  "description": "The hoe's Pathen grades an even slope from your feet to where you aim (flat across, blended edges, no steps); Paved road paints stone over your paths without changing them. Works in the build camera. The server and every player need it.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
